@@ -1,0 +1,5 @@
+145	Atlas_Sneaker	43	800000	Baru
+169	Puma_Suede	44	875000	Bekas
+170	Vans_Mid_Vintage	43	1200000	Baru
+149	Air_Jordan_1	43	3400000	Baru
+269	Vetements_Jacket	XL	2355000	Bekas

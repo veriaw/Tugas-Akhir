@@ -1,0 +1,4 @@
+188	Nike_Air_Max_97	43	1540000	Bekas
+122	Adidas_Samba_BW	44	2300000	Baru
+289	Nike_Air_Force_Off_White	42	13000000	Bekas
+255	Sisir	L	15000	Baru
